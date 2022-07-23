@@ -2,12 +2,9 @@
   <div id="app">
     <a-layout>
       <!-- <a-layout-header>Header</a-layout-header> -->
-
       <a-layout-content>
         <router-view />
       </a-layout-content>
-
-     
     </a-layout>
   </div>
 </template>
